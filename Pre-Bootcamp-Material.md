@@ -1,4 +1,4 @@
-#Recommended Pre-Bootcamp Readings, Podcasts, Videos, and Work:
+# Recommended Pre-Bootcamp Readings, Podcasts, Videos, and Work:
 
 1) CSS Diner (https://flukeout.github.io/)
 
