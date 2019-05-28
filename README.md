@@ -4,6 +4,8 @@ Class Days and Class Times: Monday - Friday, 10:00AM - 4:00PM
 
 Dates: May 28th, 2019 (Tuesday) - June 21st, 2019 (Friday)
 
+Room Number: Hunter West 605
+
 Lead Instructor: Allan James S. Lapid
 
 Assistant Instructors: Justin Mintzer && Franklin Rose
@@ -91,7 +93,7 @@ Collaborative Workflow | (05/28/2019)
 
 - [Git and Github Slides](https://docs.google.com/presentation/d/1L5kn5xmH_qqcPMkH933bHDEzTU1Eh51YSBFMKqickRI/edit?usp=sharing)
 
-- [Collaboration Workshop Assignment](https://docs.google.com/document/d/1K94PRD-EN19PtFY7T7ao0JZ0cyKkAlMEjMZ8_VyfTNk/edit?usp=sharing)
+- [Collaboration Workshop Assignment](https://docs.google.com/document/d/14SccR3ajxPBK64hfW1ngtFh5xloZHSSK5V4vSTh0Jlc/edit?usp=sharing)
 
 **Class Session 2: Javascript Basics Overview, Advanced JS Topics (05/29/2019)**
 
