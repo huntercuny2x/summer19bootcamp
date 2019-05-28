@@ -87,9 +87,9 @@ Collaborative Workflow | (05/28/2019)
 
 - [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-- [Introduction Slides](https://drive.google.com/file/d/1SkMvmSwW7QXIPzGCCCt7-KmMkw96jnls/view?usp=sharing)
+- [Introduction Slides](https://docs.google.com/presentation/d/1P31jGaBOcQlogrio5jF8Y7hCw8s4BLnTfxBO8yhdDKo/edit?usp=sharing)
 
-- [Git and Github Slides](https://drive.google.com/file/d/1L_XvhD7U_n3Fttp8Q_v-M8B6v3IlTjv4/view?usp=sharing)
+- [Git and Github Slides](https://docs.google.com/presentation/d/1L5kn5xmH_qqcPMkH933bHDEzTU1Eh51YSBFMKqickRI/edit?usp=sharing)
 
 - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1K94PRD-EN19PtFY7T7ao0JZ0cyKkAlMEjMZ8_VyfTNk/edit?usp=sharing)
 
