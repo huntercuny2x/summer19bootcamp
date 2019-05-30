@@ -111,6 +111,18 @@ Collaborative Workflow | (05/28/2019)
 
 - [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
 
+**Class Session 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging) (05/30/2019)**
+
+_Suggested Pre-reading_
+
+- [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
+
+- [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+
+- [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+
+- [DOM lecture slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
