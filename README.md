@@ -123,6 +123,8 @@ _Suggested Pre-reading_
 
 - [DOM lecture slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing)
 
+- [DOM / JS Assignment #3](https://docs.google.com/document/d/1oU4kDA9WtbauADOgWV-2EZPPV-SirW1p2RTWsWMZxh8/edit?usp=sharing)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
