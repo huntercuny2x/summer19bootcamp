@@ -125,6 +125,12 @@ _Suggested Pre-reading_
 
 - [DOM / JS Assignment #3](https://docs.google.com/document/d/1oU4kDA9WtbauADOgWV-2EZPPV-SirW1p2RTWsWMZxh8/edit?usp=sharing)
 
+**Class Session 4: DOM Manipulation (Continued) and Presentations (05/31/2019)**
+
+- [DOM / JS Assignment #4](https://docs.google.com/document/d/1Nn7dgV3EMfWnOajLAcgGfGDGWSbzzmUvWB3Yz1akVCQ/edit?usp=sharing)
+
+- Presentations In The Afternoon
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
