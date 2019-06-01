@@ -41,9 +41,9 @@ Collaborative Workflow | (05/28/2019)
 
 - Class Session 3: JavaScript DOM Manipulation and Chrome Dev Tools | (05/30/2019)
 
-- Class Session 4: Introduction to React and React Components | (05/31/2019)
+- Class Session 4: DOM Manipulation (Continued) | (05/31/2019)
 
-- Class Session 5: External API Requests (AJAX/Fetch) | (06/03/2019)
+- Class Session 5: Introduction to React and React Components | (06/03/2019)
 
 - Class Session 6: Zip/City API Exercise and Intro to React Router | (06/04/2019)
 
@@ -130,6 +130,26 @@ _Suggested Pre-reading_
 - [DOM / JS Assignment #4](https://docs.google.com/document/d/1Nn7dgV3EMfWnOajLAcgGfGDGWSbzzmUvWB3Yz1akVCQ/edit?usp=sharing)
 
 - Presentations In The Afternoon
+
+**Class Session 5: Intro to React/React Components (06/03/2019)**
+
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) => _Required Reading this weekend_
+
+- ['this' Keyword MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) _Highly suggested Reading_
+
+- [Closures in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
+- [Closures in JavaScript Part II](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
+
+- Install Node on your machines before Monday [Node.js Website](https://nodejs.org/en/download/)
+
+  - Choose your OS
+
+  - Download the LTS version (most stable version of Node)
+
+- [Class, 'this', and Template String slides](https://drive.google.com/file/d/1CnEmIPZNK1W4nQoc-GHQJHafvGPLkvOt/view?usp=sharing)
+
+- [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
