@@ -151,6 +151,8 @@ _Suggested Pre-reading_
 
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
+- [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/130CUvMr-Z5YZbP_UBoy0GuL0uxzuiMkm9DWNb3oPtOQ/edit)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
