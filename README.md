@@ -45,11 +45,13 @@ Collaborative Workflow | (05/28/2019)
 
 - Class Session 5: Introduction to React and React Components | (06/03/2019)
 
-- Class Session 6: Zip/City API Exercise and Intro to React Router | (06/04/2019)
+- Class Session 6: External API Requests (AJAX/Fetch) | (06/04/2019)
 
-- Class Session 7: React Review Day | (06/05/2019)
+<!-- - Class Session 6: Zip/City API Exercise and Intro to React Router | (06/04/2019) -->
 
-- Class Session 8: Redux/React-Redux | (06/06/2019)
+<!-- - Class Session 7: React Review Day | (06/05/2019) -->
+
+<!-- - Class Session 8: Redux/React-Redux | (06/06/2019) -->
 
 - Class Session 9: Node/Express | (06/07/2019)
 
@@ -152,6 +154,28 @@ _Suggested Pre-reading_
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
 - [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/130CUvMr-Z5YZbP_UBoy0GuL0uxzuiMkm9DWNb3oPtOQ/edit)
+
+**Class Session 6: Continuing React: External API Requests (AJAX/Fetch) (06/04/2019)**
+
+- [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggested Reading_
+
+- [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) _Suggested Reading_
+
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) _Suggested Reading_
+
+- Lecture slides
+
+  - [AJAX, fetch, and Axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)
+
+  - [Promises](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing)
+
+  - [React Lifecycle](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)
+
+  - [React Events / Forms](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)
+
+ - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+
+ - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
