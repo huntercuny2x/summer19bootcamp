@@ -45,15 +45,15 @@ Collaborative Workflow | (05/28/2019)
 
 - Class Session 5: Introduction to React and React Components | (06/03/2019)
 
-- Class Session 6: External API Requests (AJAX/Fetch) | (06/04/2019)
+- Class Session 6: React (Continued) and Intro to External API Requests (AJAX/Fetch) | (06/04/2019)
 
-<!-- - Class Session 6: Zip/City API Exercise and Intro to React Router | (06/04/2019) -->
+- Class Session 7: Zip/City API Exercise and Intro to React Router | (06/05/2019)
 
-<!-- - Class Session 7: React Review Day | (06/05/2019) -->
+- Class Session 8: React Review Day | (06/06/2019)
 
-<!-- - Class Session 8: Redux/React-Redux | (06/06/2019) -->
+- Class Session 9: Redux/React-Redux | (06/07/2019)
 
-- Class Session 9: Node/Express | (06/07/2019)
+<!-- - Class Session 9: Node/Express | (06/07/2019)
 
 - Class Session 10: Express/PostgreSQL | (06/10/2019)
 
@@ -61,7 +61,7 @@ Collaborative Workflow | (05/28/2019)
 
 - Class Session 12: Sequelize/Auth && Webpack/Babel | (06/12/2019)
 
-- Class Session 13: Testing/Heroku/Recap/Project Planning and Brainstorming | (06/13/2019)
+- Class Session 13: Testing/Heroku/Recap/Project Planning and Brainstorming | (06/13/2019) -->
 
 - Class Session 14: Project Building I | (06/14/2019)
 
@@ -176,6 +176,13 @@ _Suggested Pre-reading_
  - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
 
  - [Folder Toggle / Form Edit Exercises](https://drive.google.com/file/d/1mvHB2VZf7pXEBoHdcft_5rTlKcv24Vs-/view?usp=sharing)
+
+ **Class Session 7: Zip/City API Exercise and Intro to React Router (06/05/2019)**
+
+- [React Router Pre-Reading #1](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
+- [React Router Pre-Reading #2](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Router Pre-Reading #3](https://reacttraining.com/react-router/web/guides/philosophy)
+- [React Router Pre-Reading #4](https://www.techiediaries.com/react-router-dom-v4/)
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
