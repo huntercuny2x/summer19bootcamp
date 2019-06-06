@@ -183,6 +183,12 @@ _Suggested Pre-reading_
 - [React Router Pre-Reading #2](https://reacttraining.com/react-router/web/guides/quick-start)
 - [React Router Pre-Reading #3](https://reacttraining.com/react-router/web/guides/philosophy)
 - [React Router Pre-Reading #4](https://www.techiediaries.com/react-router-dom-v4/)
+- [Zip/City API Pair Assignment](https://gist.github.com/ajLapid718/ebc2f54388f3ed451896412394f9ba57)
+- [Bank of React Solo Exercise](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
+
+ **Class Session 8: React Review Day (06/06/2019)**
+ - [GIPHY Assignment](https://gist.github.com/ajLapid718/fef88d24195b4876ad4975282aef8a74)
+ - Career Workshop For The Entire Afternoon
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
