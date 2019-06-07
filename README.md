@@ -183,6 +183,7 @@ _Suggested Pre-reading_
 - [React Router Pre-Reading #2](https://reacttraining.com/react-router/web/guides/quick-start)
 - [React Router Pre-Reading #3](https://reacttraining.com/react-router/web/guides/philosophy)
 - [React Router Pre-Reading #4](https://www.techiediaries.com/react-router-dom-v4/)
+- [React Router Slide Deck](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view?usp=sharing)
 - [Zip/City API Pair Assignment](https://gist.github.com/ajLapid718/ebc2f54388f3ed451896412394f9ba57)
 - [Bank of React Solo Exercise](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
