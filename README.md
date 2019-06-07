@@ -192,7 +192,8 @@ _Suggested Pre-reading_
  - Career Workshop For The Entire Afternoon
 
   **Class Session 9: Redux/React-Redux (06/07/2019)**
-- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
+- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+- [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [Redux / React-Redux Slides](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing)
 - [Redux / React-Redux Slides #2](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing)
 - [Redux Middleware Slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing)
