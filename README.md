@@ -191,6 +191,22 @@ _Suggested Pre-reading_
  - [GIPHY Assignment](https://gist.github.com/ajLapid718/fef88d24195b4876ad4975282aef8a74)
  - Career Workshop For The Entire Afternoon
 
+  **Class Session 9: Redux/React-Redux (06/07/2019)**
+- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux) <= _Excellent tutorial_
+- [Redux / React-Redux Slides](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing)
+- [Redux / React-Redux Slides #2](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing)
+- [Redux Middleware Slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing)
+- [Redux Thunk Middleware Slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing)
+
+- [What Thunks Are, What They Solve, and Other Options](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
+
+- [Redeux](https://github.com/ajLapid718/Redeux)
+  - A repository with different branches containing code that briefly goes over Redux-Thunks, Redux-Saga, Redux-Loop, Redux-Promise, and Redux-Observable
+  - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger
+
+- [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
+- [Review of Week 2 Concepts](https://drive.google.com/file/d/1i9EMvaRbxtV92tq2dlh-kmxgprV2lQ_-/view?usp=sharing)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
