@@ -53,6 +53,10 @@ Collaborative Workflow | (05/28/2019)
 
 - Class Session 9: Redux/React-Redux | (06/07/2019)
 
+- Class Session 10: Node/Express | (06/10/2019)
+
+- Class Session 11: PostgreSQL/Sequelize | (06/11/2019)
+
 <!-- - Class Session 9: Node/Express | (06/07/2019)
 
 - Class Session 10: Express/PostgreSQL | (06/10/2019)
@@ -208,7 +212,7 @@ _Suggested Pre-reading_
 - [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
 - [Review of Week 2 Concepts](https://drive.google.com/file/d/1i9EMvaRbxtV92tq2dlh-kmxgprV2lQ_-/view?usp=sharing)
 
-**Class Session 9: Intro to Node/Express (06/10/2019)**
+**Class Session 10: Intro to Node/Express (06/10/2019)**
 
 - [Intro to Node slides](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing)
 
@@ -227,6 +231,26 @@ _Suggested Pre-reading_
 - [NodeJS: Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/) <= _Main Takeaway: A deeper understanding of Node's module system_
 
 - [JavaScript Conference 2019: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
+
+**Class Session 11: PostgreSQL/Sequelize (06/11/2019)**
+
+- [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
+
+- [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
+
+- [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
+
+- [SQLBolt Tutorial](https://sqlbolt.com/)
+
+- [SQLZoo Tutorial](https://sqlzoo.net/)
+
+- [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
+
+- [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
+
+- [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
+
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
