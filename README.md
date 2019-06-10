@@ -218,7 +218,7 @@ _Suggested Pre-reading_
 
 - [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
 
-- [Node Assignment](https://gist.github.com/ajLapid718/7ce3a40354709935d721ff66e479d4bb)
+<!-- - [Node Assignment](https://gist.github.com/ajLapid718/7ce3a40354709935d721ff66e479d4bb) -->
 
 - [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
 
