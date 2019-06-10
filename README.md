@@ -208,6 +208,26 @@ _Suggested Pre-reading_
 - [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
 - [Review of Week 2 Concepts](https://drive.google.com/file/d/1i9EMvaRbxtV92tq2dlh-kmxgprV2lQ_-/view?usp=sharing)
 
+**Class Session 9: Intro to Node/Express (06/10/2019)**
+
+- [Intro to Node slides](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing)
+
+- [NPM Slides](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing)
+
+- [Intro to Express slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing)
+
+- [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
+
+- [Node Assignment](https://gist.github.com/ajLapid718/7ce3a40354709935d721ff66e479d4bb)
+
+- [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
+
+- [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
+
+- [NodeJS: Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/) <= _Main Takeaway: A deeper understanding of Node's module system_
+
+- [JavaScript Conference 2019: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
