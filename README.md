@@ -252,6 +252,14 @@ _Suggested Pre-reading_
 
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
+**Class Session 12: PostgreSQL/Sequelize (06/12/2019)**
+- [Introduction To Databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view?usp=sharing)
+- [Introduction To SQL](https://drive.google.com/file/d/1LlIzBeY7KWs8CtNndi7yLunixw8WprWz/view?usp=sharing)
+- [Node-Postgres](https://drive.google.com/file/d/1DG3bbl8Gs59g7k2UqTo6eP_9LyYaZPyu/view?usp=sharing)
+- [Introduction To Schemas](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing)
+- [Introduction To ORMs](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing)
+- [Rounding Out Express and Sequelize](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
