@@ -57,6 +57,8 @@ Collaborative Workflow | (05/28/2019)
 
 - Class Session 11: PostgreSQL/Sequelize | (06/11/2019)
 
+- Class Session 12: PostgreSQL/Sequelize (Continued) | (06/11/2019)
+
 <!-- - Class Session 9: Node/Express | (06/07/2019)
 
 - Class Session 10: Express/PostgreSQL | (06/10/2019)
@@ -259,6 +261,8 @@ _Suggested Pre-reading_
 - [Introduction To Schemas](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing)
 - [Introduction To ORMs](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing)
 - [Rounding Out Express and Sequelize](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing)
+- [GitHub Repository Of A Backend For A Sports App](https://github.com/ajlapid718/affiliated)
+  - Involves Node, Express, PostgreSQL, and Sequelize
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
