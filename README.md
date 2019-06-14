@@ -265,6 +265,7 @@ _Suggested Pre-reading_
 - [React Testing With Enzyme and Jest](https://medium.com/@jon.rosado42/tools-of-the-trade-react-testing-with-enzyme-and-jest-c70ba40f69a9)
 
 - [Heroku slides](https://drive.google.com/file/d/1cM6pkULKq8K0H0F0djLI-G_KSQ5_EdqV/view?usp=sharing)
+- [How To Deploy a Simple App That Has One Server](https://gist.github.com/ajLapid718/42a09192e7a57a11efc75a1962d55348)
 
 - [Intro to user Authentication slides](https://drive.google.com/file/d/1exeS0pLKzCM31dAJ6EYmipEdfuQyqo9o/view?usp=sharing)
 - [Cookies slides](https://drive.google.com/file/d/1g_xN-HvAjyN5b6Qy4QpYt75ZmFWMzs2K/view?usp=sharing)
