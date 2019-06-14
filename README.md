@@ -273,6 +273,7 @@ _Suggested Pre-reading_
 
 - [React-Redux Gist and Workflow](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
 - [Sequelize and Corresponding SQL Queries Courtesy of Frank](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
+- [Authentication Repository/App](https://github.com/ajLapid718/loggin)
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
