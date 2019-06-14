@@ -270,6 +270,7 @@ _Suggested Pre-reading_
 - [Cookies slides](https://drive.google.com/file/d/1g_xN-HvAjyN5b6Qy4QpYt75ZmFWMzs2K/view?usp=sharing)
 - [Passport/JSWT slides](https://drive.google.com/file/d/1kA9KzgovUG-wyH72BVBSaqX4-S4uY_dg/view?usp=sharing)
 - [Passport.js tutorial](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
+- [More On Passport, Cookies, and Sessions (Clear and Concise)](https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive)
 
 - [React-Redux Gist and Workflow](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
 - [Sequelize and Corresponding SQL Queries Courtesy of Frank](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
