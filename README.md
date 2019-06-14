@@ -59,15 +59,7 @@ Collaborative Workflow | (05/28/2019)
 
 - Class Session 12: PostgreSQL/Sequelize (Continued) | (06/11/2019)
 
-<!-- - Class Session 9: Node/Express | (06/07/2019)
-
-- Class Session 10: Express/PostgreSQL | (06/10/2019)
-
-- Class Session 11: PostgreSQL/Sequelize | (06/11/2019)
-
-- Class Session 12: Sequelize/Auth && Webpack/Babel | (06/12/2019)
-
-- Class Session 13: Testing/Heroku/Recap/Project Planning and Brainstorming | (06/13/2019) -->
+- Class Session 13: Heroku/Deployment/Fullstack CRUD App/Project Planning and Brainstorming | (06/13/2019)
 
 - Class Session 14: Project Building I | (06/14/2019)
 
@@ -263,6 +255,21 @@ _Suggested Pre-reading_
 - [Rounding Out Express and Sequelize](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing)
 - [GitHub Repository Of A Backend For A Sports App](https://github.com/ajlapid718/affiliated)
   - Involves Node, Express, PostgreSQL, and Sequelize
+
+**Class Session 13: Heroku/Deployment/Fullstack CRUD App/Project Planning and Brainstorming/Resources For Capstone (06/13/2019)**
+
+- [Jasmine Testing slides](https://drive.google.com/file/d/1G9TmoeXEzO2zUZLjYf22nwTx5qWNz2Zd/view?usp=sharing)
+- [Unit Tests Involving A Few Algorithms](https://github.com/ajLapid718/developmentDrivenTests)
+  - A repository containing solutions and tests for for three algorithms
+  - Utilizes Mocha, Chai, and Sinon
+- [React Testing With Enzyme and Jest](https://medium.com/@jon.rosado42/tools-of-the-trade-react-testing-with-enzyme-and-jest-c70ba40f69a9)
+
+- [Heroku slides](https://drive.google.com/file/d/1cM6pkULKq8K0H0F0djLI-G_KSQ5_EdqV/view?usp=sharing)
+
+- [Intro to user Authentication slides](https://drive.google.com/file/d/1exeS0pLKzCM31dAJ6EYmipEdfuQyqo9o/view?usp=sharing)
+- [Cookies slides](https://drive.google.com/file/d/1g_xN-HvAjyN5b6Qy4QpYt75ZmFWMzs2K/view?usp=sharing)
+- [Passport/JSWT slides](https://drive.google.com/file/d/1kA9KzgovUG-wyH72BVBSaqX4-S4uY_dg/view?usp=sharing)
+- [Passport.js tutorial](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
