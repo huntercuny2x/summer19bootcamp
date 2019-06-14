@@ -276,6 +276,9 @@ _Suggested Pre-reading_
 - [Sequelize and Corresponding SQL Queries Courtesy of Frank](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
 - [Authentication Repository/App](https://github.com/ajLapid718/loggin)
 
+- [A One-Hour Video (In-Depth) on Authentication](https://www.youtube.com/watch?v=7ip2jWAoj6w&feature=youtu.be)
+- [Another Hour-Long Video (In-Depth) on Authentication](https://www.youtube.com/watch?v=pC7f8p1MH2M&feature=youtu.be)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
