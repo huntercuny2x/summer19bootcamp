@@ -271,6 +271,9 @@ _Suggested Pre-reading_
 - [Passport/JSWT slides](https://drive.google.com/file/d/1kA9KzgovUG-wyH72BVBSaqX4-S4uY_dg/view?usp=sharing)
 - [Passport.js tutorial](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
 
+- [React-Redux Gist and Workflow](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
+- [Sequelize and Corresponding SQL Queries Courtesy of Frank](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
+
 **Class Session 14 (06/14/2019)**
 - Project Building I
 
