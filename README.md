@@ -204,6 +204,8 @@ _Suggested Pre-reading_
   - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger
 
 - [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
+- [Redux-Thunk Explanation](https://learn.co/lessons/redux-thunk-readme)
+- [React-Redux Gist](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
 - [Review of Week 2 Concepts](https://drive.google.com/file/d/1i9EMvaRbxtV92tq2dlh-kmxgprV2lQ_-/view?usp=sharing)
 
 **Class Session 10: Intro to Node/Express (06/10/2019)**
@@ -279,6 +281,8 @@ _Suggested Pre-reading_
 
 - [A One-Hour Video (In-Depth) on Authentication](https://www.youtube.com/watch?v=7ip2jWAoj6w&feature=youtu.be)
 - [Another Hour-Long Video (In-Depth) on Authentication](https://www.youtube.com/watch?v=pC7f8p1MH2M&feature=youtu.be)
+
+- [Deploying a CRA Frontend and an Express Backend from Scratch](https://gist.github.com/ajLapid718/c41bcfec32698abc6f4800dfd1db04f5)
 
 **Class Session 14 (06/14/2019)**
 - Project Building I
